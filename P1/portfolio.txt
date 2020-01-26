@@ -1,0 +1,6 @@
+bit 1.23
+lic 24
+eth 3.33
+bch 2.36
+bcc 34.83
+miota 1000
